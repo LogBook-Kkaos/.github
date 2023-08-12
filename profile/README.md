@@ -1,6 +1,7 @@
 # LogBook
 LogBook은 릴리즈 노트를 책처럼 간편하게 모아서 조회할 수 있는 서비스입니다. 
 다양한 기능을 통해 프로젝트 관리 및 릴리즈 관련 업무 효율성을 높이며, 사용자 맞춤형 경험을 제공합니다.
+
 <img width="633" alt="스크린샷 2023-08-13 오전 12 01 03" src="https://github.com/LogBook-Kkaos/.github/assets/70849467/997b69a6-23b5-4a0e-a525-7da9a7b7ec0d">
 
 ## 기술 스택
